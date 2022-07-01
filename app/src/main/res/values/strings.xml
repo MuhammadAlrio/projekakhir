@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">projekakhir</string>
+    <string name="forgotpass"><u>Forgot Password</u></string>
+    <string name="signup"><u>Sign Up</u></string>
+</resources>
